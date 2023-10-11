@@ -79,7 +79,7 @@ const AllPrefix = () => {
               <table>
                 <thead>
                   <tr>
-                    <th>Sr No.</th>
+                    <th>brijesh</th>
                     <th>All Prefix List</th>
                     <th>Action</th>
                   </tr>
