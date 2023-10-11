@@ -144,7 +144,7 @@ const MainPage = () => {
 
               </form>
               <div className="credentials">
-                <h6>Username:- <span>brijesh</span></h6>
+                <h6>Username:- <span>brijesh singh</span></h6>
                 <h6>Password:- <span>brijes08</span></h6>
               </div>
             </div>
